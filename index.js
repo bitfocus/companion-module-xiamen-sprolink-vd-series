@@ -142,7 +142,7 @@ instance.prototype.action = function(action) {
 	switch (action.action) {
 
 		case 'load_scene':
-			cmd = '<CALL,' + opt.screen + parseInt(opt.scene) + '>';
+			cmd = '<CALL,' + parseInt(opt.scene) + opt.screen + '>';
 			break;
 
 	};
