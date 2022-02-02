@@ -9,11 +9,18 @@
 	"manufacturer": "Xiamen SPROLINK",
 	"product": "VD Series",
 	"shortname": "sprolink-vd",
-	"homepage": "http://www.sprolink.com/",
+	"homepage": "https://github.com/bitfocus/companion-module-xiamen-sprolink-vd-series#readme",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "William Viker <william@bitfocus.io>",
-	"license": "ISC"
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-xiamen-sprolink-vd-series/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-xiamen-sprolink-vd-series.git"
+	}
 }
